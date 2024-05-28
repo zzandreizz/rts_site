@@ -16,24 +16,24 @@ section{
 
 
 #main{
-    background-image: url("https://i.ibb.co/YpghWbz/bgMAIN.png");
+    background-image: url("bgMAIN.png");
 
 }
 
 #about{
-    background-image: url("https://i.ibb.co/crRcLYK/bgABOUT.png");
+    background-image: url("bgABOUT.png");
 }
 
 #skills{
-    background-image: url("https://i.ibb.co/v305VqG/bgSKILLS.png");
+    background-image: url("bgSKILLS.png");
 }
 
 #works{
-    background-image: url("https://i.ibb.co/pybR0xC/bgWORKS.png"); 
+    background-image: url("bgWORKS.png"); 
 }
 
 #comments{
-    background-image: url("https://i.ibb.co/55DRxxV/bg-COMMENTS.png");
+    background-image: url("bgCOMMENTS.png");
 }
 
 .main-block, .about-block, .skills-block,
@@ -50,7 +50,7 @@ section{
 }
 
 .main-content{
-    background-image:url("https://i.ibb.co/Jnn3JFc/form1.png") ;
+    background-image:url("form1.png") ;
     background-repeat: no-repeat;
     background-size: contain;
     width: 849px;
